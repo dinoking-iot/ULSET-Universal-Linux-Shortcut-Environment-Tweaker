@@ -3,9 +3,6 @@
 > **Bring Windows-style "Send to Desktop (Create Shortcut)" with automatic `.exe` icon extraction to BigLinux & KDE/Linux — without touching your stock Wine setup.**  
 > *Mang tính năng chuột phải "Send to Desktop (Tạo Shortcut)" kèm tự động trích xuất icon file `.exe` chuẩn như Windows lên BigLinux & KDE/Linux — giữ nguyên vẹn cấu hình Wine gốc của bạn.*
 
-[![Version](https://shields.io)](#)
-[![Target](https://shields.io)](#)
-[![Desktop](https://shields.io)](#)
 
 ---
 
