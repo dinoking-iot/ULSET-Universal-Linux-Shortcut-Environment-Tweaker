@@ -62,4 +62,6 @@ chmod +x ulset.sh
   *Nhấn phím **`1`** để cài đặt & kích hoạt **"Gửi ra Desktop (Tạo Shortcut)"** (Dolphin sẽ tự làm mới để áp dụng ngay).*
 * Press **`2`** to cleanly remove the context menu without affecting Wine or existing shortcuts.  
   *Nhấn phím **`2`** để gỡ bỏ sạch sẽ menu chuột phải mà không làm ảnh hưởng đến Wine hay các shortcut đã tạo.*
+
+  Download  https://github.com/dinoking-iot/ULSET-Universal-Linux-Shortcut-Environment-Tweaker/releases/tag/ULSETv1
   
