@@ -48,11 +48,12 @@ Unlike heavy third-party wrappers, ULSET preserves your **stock Wine** environme
 
 ```bash
 # 1. Make the script executable / Cấp quyền thực thi cho script
-chmod +x ulset.sh
+chmod +x menushortcut.sh
 
 # 2. Launch the interactive control panel (or simply double-click it!)
 # Mở bảng điều khiển tương tác (hoặc đơn giản là nhấp đúp vào file!)
-./ulset.sh
+./menushortcut.sh
+
 ```
 
 * Press **`1`** to install & activate **"Send to Desktop (Create Shortcut)"** (Dolphin restarts automatically to apply).  
